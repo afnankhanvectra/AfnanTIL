@@ -48,8 +48,8 @@ Now set up of push notification is ready.  We will learn To integrate one signal
 
 ### Links
 
-<https://www.pubnub.com/docs/ios-objective-c/mobile-gateway#apns-prerequisites-certs>
-<https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started>
+<https://www.pubnub.com/docs/ios-objective-c/mobile-gateway#apns-prerequisites-certs>  
+<https://www.raywenderlich.com/156966/push-notifications-tutorial-getting-started>  
 <https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/APNSOverview.html>
 
 
