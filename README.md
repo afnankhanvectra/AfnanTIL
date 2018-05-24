@@ -5,13 +5,13 @@ variety of languages and technologies.
 
 ## Categories
 
-* [Architecture](#architecture)
+* [Swift](#swift)
 * [iOS](#ios)
 * [git](#git)
 
 ---
 
-## Architecture
+## Swift
 
 - [Model View Intent](architecture/model-view-intent.md)
 
