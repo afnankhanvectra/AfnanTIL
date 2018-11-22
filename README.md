@@ -6,7 +6,7 @@ variety of languages and technologies.
 ## Categories
 
 * [iOS](iOS)
-* [Swift](#swift)
+* [Swift](swift)
 
 ---
 
