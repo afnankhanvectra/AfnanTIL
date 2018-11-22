@@ -7,6 +7,7 @@ variety of languages and technologies.
 
 * [iOS](iOS)
 * [Swift](swift)
+* [Cocos2d-x](Cocos2d-x)
 
 ---
 
