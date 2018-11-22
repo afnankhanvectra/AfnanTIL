@@ -5,7 +5,7 @@ variety of languages and technologies.
 
 ## Categories
 
-* [iOS](/tree/master/iOS)
+* [iOS](iOS)
 * [Swift](#swift)
 
 ---
