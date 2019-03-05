@@ -8,6 +8,8 @@ variety of languages and technologies.
 * [iOS](iOS)
 * [Swift](swift)
 * [Cocos2d-x](Cocos2d-x)
+* [Managment](Managment)
+
 
 ---
 
@@ -24,3 +26,6 @@ variety of languages and technologies.
 
 ## Cocos2d-X
 - [Introduction](Cocos2d-x/Introduction.md)
+
+## Managment
+- [Difference between Start up and well-structured company](Cocos2d-x/Introduction.md)
