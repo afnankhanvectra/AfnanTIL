@@ -28,4 +28,4 @@ variety of languages and technologies.
 - [Introduction](Cocos2d-x/Introduction.md)
 
 ## Managment
-- [Difference between Start up and well-structured company](Cocos2d-x/Introduction.md)
+- [Difference between Start up and well-structured company](Managment/start-up-large-company.md)
