@@ -10,6 +10,8 @@ variety of languages and technologies.
 * [Cocos2d-x](Cocos2d-x)
 * [unit test](unit%20test)
 * [Managment](Managment)
+* [Xcode](xcode)
+
 
 
 ---
@@ -33,3 +35,6 @@ variety of languages and technologies.
 
 ## Managment
 - [Difference between Start up and well-structured company](Managment/start-up-large-company.md)
+
+## Xcode
+- [Download Xcode by wget](xcode/download-xcode-using-wget.md.md)
