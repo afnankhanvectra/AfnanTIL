@@ -42,6 +42,9 @@ variety of languages and technologies.
 
 ## Managment
 - [Difference between Start up and well-structured company](Managment/start-up-large-company.md)
+- [Agile, Scrum , Sprint](Managment/agile_development.md)
+
+
 
 ## Xcode
 - [Download Xcode by wget](xcode/download-xcode-using-wget.md)
