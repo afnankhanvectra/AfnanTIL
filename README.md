@@ -56,4 +56,4 @@ variety of languages and technologies.
 - [Download Xcode by wget](xcode/download-xcode-using-wget.md)
 
 ## Design pattern
-- [Factory Design Pattern](xcode/Design%20Pattern/factory_design_pattern.md)
+- [Factory Design Pattern](Design%20Pattern/factory_design_pattern.md)
