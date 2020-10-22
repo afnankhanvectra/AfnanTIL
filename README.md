@@ -11,7 +11,7 @@ variety of languages and technologies.
 * [unit test](unit%20test)
 * [Managment](Managment)
 * [Xcode](xcode)
-* [Design pattern](Design%20pattern)
+* [Design pattern](Design%20Pattern)
 
 
 
