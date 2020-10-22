@@ -11,6 +11,8 @@ variety of languages and technologies.
 * [unit test](unit%20test)
 * [Managment](Managment)
 * [Xcode](xcode)
+* [Design pattern](xcode)
+
 
 
 
@@ -52,3 +54,5 @@ variety of languages and technologies.
 
 ## Xcode
 - [Download Xcode by wget](xcode/download-xcode-using-wget.md)
+
+## Design pattern
