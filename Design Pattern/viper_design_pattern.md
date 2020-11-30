@@ -13,6 +13,9 @@ Viper Design pattern is part of design architecture design patterns.It  is appli
 * **Router:** It has all navigation logic for describing which screens are to be shown when. It is normally written as a wireframe.
 We use another class  by name “Protocols” where we put all protocol needed for communications
 
+![VIPER Diagram ](https://res.cloudinary.com/dlikzl3m2/image/upload/v1605165938/viper/viper_sample.png)
+
+
 ### Why We use Viper
 
 Viper has many benefits . Because it supports “ Single Responsibility principle ” and clean architecture like
