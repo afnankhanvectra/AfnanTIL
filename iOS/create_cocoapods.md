@@ -24,9 +24,8 @@ Before creating pod, must check whether same name pod is exist on
 Under the hood, a CocoaPods library is a Cocoa Touch framework library. Launch Xcode and create a new project, choose Cocoa Touch Framework .
 
 
-
-(Attach photo)
-
+<img classes="fancybox fig-100" src="https://res.cloudinary.com/dlikzl3m2/image/upload/v1607983501/blog/cocoapod_pic_1.png" style="width:80%;float:center"
+title="Cocoapods pic 1"/>
 
 
 And give the name of cocoa touch library. It should be unique .. for my project I am using **“MAKTestPod”**
@@ -35,13 +34,10 @@ And give the name of cocoa touch library. It should be unique .. for my project 
 
 After creatingg your project should look like this 
 
-(Attach photo 2)
-
-
-
+<img classes="fancybox fig-100" src="https://res.cloudinary.com/dlikzl3m2/image/upload/v1607983501/blog/cocoapod_pic_2.png" style="width:80%;float:center"
+title="Cocoapods pic 2"/>
 
 ##### Prepare the targets
-
 
 
 We have created cocoa touch library for work. Now create application to test . Select MAKTestPod project from the project navigator, then choose File > New > Target…, select Single View App as the template and click on Next . Enter the **“MAKTestPodExample”** and click next.
@@ -193,3 +189,4 @@ Tag the correct version
 HelpFul links
 
 <https://medium.com/flawless-app-stories/create-your-own-cocoapods-library-da589d5cd270)>
+
