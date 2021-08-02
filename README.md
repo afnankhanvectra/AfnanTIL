@@ -27,6 +27,8 @@ variety of languages and technologies.
 - [How HLS Work](iOS/how_hls_work.md)
 - [Create Cocoapods](iOS/create_cocoapods.md)
 - [InjectionIII](iOS/injection.md)
+- [Secure API keys](iOS/secure_api_keys.md)
+
 
 
 
