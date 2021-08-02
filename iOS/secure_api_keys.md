@@ -24,7 +24,7 @@ Like **$(SECRET_KEY)**
 
 - 5- Now use API in code
 
-         Bundle.main.object(forInfoDictionaryKey: "SECRET") as? String
+         let apikey = Bundle.main.object(forInfoDictionaryKey: "SECRET") as? String
 
 
 
