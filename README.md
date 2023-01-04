@@ -39,7 +39,7 @@ variety of languages and technologies.
 - [Property Wrapper](swift/property_wrapper.md)
 
 ## React Native
-- [Chat gpt Integration with Rest API](/./blogs/react native/chat-gpt-integration.md/)
+- [Chat gpt Integration with Rest API](react%20native/chat-gpt-integration.md)
 
 
 ## Cocos2d-X
